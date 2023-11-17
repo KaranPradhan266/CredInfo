@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="backcard" size="0.060000 0.094121" />
+    <ImageTarget name="Dc_2" size="0.060000 0.094252" />
+    <ImageTarget name="newcard" size="0.060000 0.094312" />
+    <ImageTarget name="Dc_1" size="0.330000 0.518386" />
+  </Tracking>
+</QCARConfig>
