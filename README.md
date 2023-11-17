@@ -12,7 +12,7 @@ This cutting-edge application utilizes augmented reality technology to redefine 
 
 ## Demo
 
-![AR Experience Demo](assets/Demo.gif)
+![AR Experience Demo](Assets/Demo.gif)
 
 *See the app in action!*
 
